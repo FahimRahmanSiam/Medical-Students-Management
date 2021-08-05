@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test 2.iml" filepath="$PROJECT_DIR$/.idea/Test 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../doctorpatient/.idea/doctorpatient.iml" filepath="$PROJECT_DIR$/../doctorpatient/.idea/doctorpatient.iml" />
+      <module fileurl="file://E:/Ampps/www/epw/.idea/epw.iml" filepath="E:/Ampps/www/epw/.idea/epw.iml" />
+    </modules>
+  </component>
+</project>
